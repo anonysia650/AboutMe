@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(127, 142, 255);
+}
+
+.education {
+    background-color: blueviolet;
+}
+
+#Personal_div {
+    text-decoration: wavy;
+    font-family: cursive
+}
